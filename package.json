@@ -14,5 +14,16 @@
   },
   "dependencies": {
     "dotenv": "^17.4.2"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salveruvijaya29-lgtm/playwright-capstone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salveruvijaya29-lgtm/playwright-capstone/issues"
+  },
+  "homepage": "https://github.com/salveruvijaya29-lgtm/playwright-capstone#readme"
 }
