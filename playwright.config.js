@@ -11,7 +11,7 @@ module.exports = defineConfig({
   reporter: [['html', { open: 'never' }]],
   use: {
     trace: 'on-first-retry',
-    slowMo: 5000, // 1 second delay between actions
+    slowMo: 8000, // 1 second delay between actions
   },
   projects: [
     {
